@@ -1,6 +1,4 @@
-# Welcome To GalleryGo
 
-### View my project architecture below! Happy gaming! 👋😁
 
 /multi-container-app
 ├── app.py                # Flask application
