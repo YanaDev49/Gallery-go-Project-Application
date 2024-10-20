@@ -15,7 +15,8 @@
  
 ### This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
 
-![IHopeYouGuysEnjoyBartonGIF](https://github.com/user-attachments/assets/aa36f2fb-fc51-4cc3-82a4-72f65fd60d6d)
+![EnjoyGIF](https://github.com/user-attachments/assets/f815ab95-019c-4744-b25e-7ca020148588)
+
 
 ##
 
@@ -31,7 +32,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ### Every time you visit or hit the **‘Earn Points’ button**, you collect points. After accessing the web page for the first time, you can earn points by simply restarting the page!
 
-  ![ChimpersChimpiGIF](https://github.com/user-attachments/assets/6e5d8a0d-de05-453d-8e69-d038ed8a7a5f)
+![ChimpersChimpiGIF](https://github.com/user-attachments/assets/6e5d8a0d-de05-453d-8e69-d038ed8a7a5f)
 
 ## 
 
@@ -39,7 +40,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ### See how your score stacks up against other visitors in real-time. (adds a competitive edge, am i right?)
 
- ![TopWinsInRobloxBedwarsGIF](https://github.com/user-attachments/assets/b17c628d-8d4c-416f-b3ea-11a91cb5ef95)
+![TopWinsInRobloxBedwarsGIF](https://github.com/user-attachments/assets/b17c628d-8d4c-416f-b3ea-11a91cb5ef95)
 
 ## 
 
