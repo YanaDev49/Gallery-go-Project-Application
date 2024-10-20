@@ -2,11 +2,15 @@
 
 ![image](https://github.com/user-attachments/assets/e0810c5f-f88e-4546-aab6-9bb076c184b6)
 
- ### **Gallery go!** is an aesthetic and interactive web application where every visit earns you points! 
+ ### **Gallery go** is an aesthetic and interactive web application where every visit earns you points! 
  
 #### I built this as a way to integrate my keen eye for design with some docker principles I've been learning:
   
- **Flask**, **Redis**, and **Docker Compose**. This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
+-  **Flask**
+-  **Redis** 
+-  **Docker Compose**
+ 
+### This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
 
 ##
 
@@ -18,7 +22,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## Features 🎮
 
-### - **Earn Points**: Every time you visit or hit the **‘Earn Points’ button**, you collect points. After accessing the web page for the first time, you can earn points by simply restarting the page!
+### **Earn Points**: Every time you visit or hit the **‘Earn Points’ button**, you collect points. After accessing the web page for the first time, you can earn points by simply restarting the page!
 
   ![ChimpersChimpiGIF](https://github.com/user-attachments/assets/6e5d8a0d-de05-453d-8e69-d038ed8a7a5f)
 
