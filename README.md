@@ -1,8 +1,10 @@
 # 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑮𝒂𝒍𝒍𝒆𝒓𝒚 𝒈𝒐!! 🖼️
 
-![image](https://github.com/user-attachments/assets/01228107-0f4d-4e9b-905d-ea2ba1f0117f)
+![image](https://github.com/user-attachments/assets/e0810c5f-f88e-4546-aab6-9bb076c184b6)
 
- **Gallery go!** is an aesthetic and interactive web application where every visit earns you points! I built this as a way to integrate my keen eye for design with some docker principles I've been learning: **Flask**, **Redis**, and **Docker Compose**. This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
+ ### **Gallery go!** is an aesthetic and interactive web application where every visit earns you points! 
+ 
+- I built this as a way to integrate my keen eye for design with some docker principles I've been learning: **Flask**, **Redis**, and **Docker Compose**. This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
 
 ##
 
@@ -22,7 +24,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ### - **Live Leaderboard**: See how your score stacks up against other visitors in real-time. (adds a competitive edge, am i right?)
 
-  ![TopWinsInRobloxBedwarsGIF](https://github.com/user-attachments/assets/b17c628d-8d4c-416f-b3ea-11a91cb5ef95)
+ ![TopWinsInRobloxBedwarsGIF](https://github.com/user-attachments/assets/b17c628d-8d4c-416f-b3ea-11a91cb5ef95)
 
   ## 
 
