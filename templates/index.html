@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaliyana's Design.org</title>
+    <style>
+        body {
+            background-image: url("/static/museum_images/{{ background_image }}");
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            transition: background-image 0.5s ease-in-out;  /* Smooth background transition */
+        }
+        /* Welcome message styling */
+        .welcome-message {
+            color: black;  /* Change the text color to black */
+            font-family: 'Georgia', serif;  /* Elegant serif font */
+            border: 2px solid white;  /* White border around the message */
+            padding: 20px;
+            display: inline-block;
+            background-color: rgba(255, 255, 255, 0.8);  /* Semi-transparent white background */
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .leaderboard {
+            background: rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+        /* Button styling */
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+        /* Earned points message styling */
+        .points-message {
+            color: black;  /* Change text color to black for readability */
+            font-family: 'Georgia', serif;  /* Elegant font for consistency */
+            border: 2px solid white;  /* White border around the points message */
+            padding: 15px;
+            display: inline-block;
+            background-color: rgba(255, 255, 255, 0.8);  /* Semi-transparent white background */
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        /* Username prompt centered like Google */
+        .centered-form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+        .form-title {
+            font-size: 48px;  /* Large text for 'GalleryGo!' */
+            font-family: 'Georgia', serif;
+            color: black;
+            margin-bottom: 20px;
+        }
+        .username-form input[type="text"] {
+            font-size: 18px;  /* Medium-sized input field */
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            width: 300px;
+        }
+        .username-form input[type="submit"] {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        /* Welcome, {username} with black border */
+        .welcome-username {
+            color: black;
+            font-family: 'Georgia', serif;
+            border: 2px solid black;  /* Black border around Welcome message */
+            padding: 15px;
+            display: inline-block;
+            background-color: rgba(255, 255, 255, 0.8);  /* Semi-transparent white background */
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Welcome message in a styled box -->
+    <h1 class="welcome-message">Hello Everyone, its Aaliyana here, Welcome to GalleryGo :)</h1>
+
+    <h2 class="welcome-username">Welcome, {{ username }}!</h2>  <!-- Black-bordered Welcome message -->
+
+    <h3>Leaderboard</h3>
+    <div class="leaderboard">
+        <ul>
+        {% for user, score in leaderboard %}
+            <li>{{ user }}: {{ score|int }} points</li>
+        {% endfor %}
+        </ul>
+    </div>
+
+    <!-- Points earned message in a styled box -->
+    <div class="points-message">
+        {{ message }}
+    </div>
+
+    <br>
+    <a class="button" href="/gamification">Earn Points</a>
+
+    <!-- Preload the images using JavaScript -->
+    <script>
+        const images = [
+            "/static/museum_images/louve.jpg.jpg",
+            "/static/museum_images/tapestry.jpg.jpg",
+            "/static/museum_images/hall.jpg.jpg",
+            "/static/museum_images/garden.jpg.jpg",
+            "/static/museum_images/gallery.jpg.jpg",
+            "/static/museum_images/elegant.jpg.jpg",
+            "/static/museum_images/door.jpg.jpg",
+            "/static/museum_images/image1.jpg.jpg",
+            "/static/museum_images/image2.jpg.jpg",
+            "/static/museum_images/image3.jpg.jpg",
+            "/static/museum_images/image4.jpg.jpg",
+            "/static/museum_images/image6.jpg.jpg"
+        ];
+
+        function preloadImages(array) {
+            array.forEach(src => {
+                const img = new Image();
+                img.src = src;
+            });
+        }
+
+        preloadImages(images);  // Preload the images to avoid white flash
+    </script>
+</body>
+</html>
+
