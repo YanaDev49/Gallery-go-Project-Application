@@ -4,7 +4,7 @@
 
  ### **Gallery go!** is an aesthetic and interactive web application where every visit earns you points! 
  
-- I built this as a way to integrate my keen eye for design with some docker principles I've been learning:
+#### I built this as a way to integrate my keen eye for design with some docker principles I've been learning:
   
  **Flask**, **Redis**, and **Docker Compose**. This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
 
@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## 
 
-## - **Live Leaderboard**:
+## **Live Leaderboard**:
 
 #### - See how your score stacks up against other visitors in real-time. (adds a competitive edge, am i right?)
 
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## 
 
-## - **Dynamic Backgrounds**:
+## **Dynamic Backgrounds**:
 
 ### - Each refresh or point earned gives you a new background from the world's most stunning galleries. This adds the aesthetic element of the appllication that i was going for!
 
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## 
 
-## - **Gamified Experience**: 
+## **Gamified Experience**: 
 
 ### - Just a fun, interactive way to make visiting the site more engaging! i wanted to add an additional feature of gamification to my application to engage users and encourage participation.
 
@@ -50,11 +50,11 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 👩‍💻
 
-### - **Flask**: Handles the web app, routes, and user interactions.
+### **Flask**: Handles the web app, routes, and user interactions.
 
-### - **Redis**: Tracks visit counts and user points in real-time using an in-memory database.
+### **Redis**: Tracks visit counts and user points in real-time using an in-memory database.
 
-### - **Docker & Docker Compose**: Powers the app in a multi-container setup, with separate containers for Flask and Redis.
+### **Docker & Docker Compose**: Powers the app in a multi-container setup, with separate containers for Flask and Redis.
 
 ## 𝑮𝒆𝒕𝒕𝒊𝒏𝒈 𝒔𝒕𝒂𝒓𝒕𝒆𝒅 📲
 
