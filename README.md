@@ -9,11 +9,13 @@
 -  **Flask**
 -  **Redis** 
 -  **Docker Compose**
--  **management of multi-containers**
+-  **management of multiple containers**
 
 ## 
  
 ### This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
+
+![IHopeYouGuysEnjoyBartonGIF](https://github.com/user-attachments/assets/aa36f2fb-fc51-4cc3-82a4-72f65fd60d6d)
 
 ##
 
