@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## **Gamified Experience**: 
 
-### Just a fun, interactive way to make visiting the site more engaging! i wanted to add an additional feature of gamification to my application to engage users and encourage participation.
+### Just a fun, interactive way to make visiting the site more engaging! i wanted to add an additional feature of gamification to my app to engage users and encourage participation.
 
 ![GameSportsGIF](https://github.com/user-attachments/assets/bfcfb530-6373-4c68-9409-e5f01bd7a272)
 
