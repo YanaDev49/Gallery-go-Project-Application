@@ -24,19 +24,25 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## 
 
-### - **Live Leaderboard**: See how your score stacks up against other visitors in real-time. (adds a competitive edge, am i right?)
+## - **Live Leaderboard**:
+
+#### - See how your score stacks up against other visitors in real-time. (adds a competitive edge, am i right?)
 
  ![TopWinsInRobloxBedwarsGIF](https://github.com/user-attachments/assets/b17c628d-8d4c-416f-b3ea-11a91cb5ef95)
 
-  ## 
+## 
 
-### - **Dynamic Backgrounds**: Each refresh or point earned gives you a new background from the world's most stunning galleries. This adds the aesthetic element of the appllication that i was going for!
+## - **Dynamic Backgrounds**:
+
+### - Each refresh or point earned gives you a new background from the world's most stunning galleries. This adds the aesthetic element of the appllication that i was going for!
 
  ![image](https://github.com/user-attachments/assets/4e6f5d0e-8bff-4a40-b0b4-1f30dd05913f)
 
 ## 
 
-### - **Gamified Experience**: Just a fun, interactive way to make visiting the site more engaging! i wanted to add an additional feature of gamification to my application to engage users and encourage participation.
+## - **Gamified Experience**: 
+
+### - Just a fun, interactive way to make visiting the site more engaging! i wanted to add an additional feature of gamification to my application to engage users and encourage participation.
 
 ![GameSportsGIF](https://github.com/user-attachments/assets/bfcfb530-6373-4c68-9409-e5f01bd7a272)
 
@@ -61,9 +67,9 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
    git clone https://github.com/your-username/multi-container-flask-app.git
    cd multi-container-flask-app
 
-### Build and run the containers: 🐳
+## Build and run the containers: 🐳
 ### 2. docker-compose up --build
 
-### Access: 🌐
+## Access: 🌐
 ### 4. Open your browser and go to http://localhost:5001
 
