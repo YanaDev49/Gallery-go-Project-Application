@@ -4,7 +4,9 @@
 
  ### **Gallery go!** is an aesthetic and interactive web application where every visit earns you points! 
  
-- I built this as a way to integrate my keen eye for design with some docker principles I've been learning: **Flask**, **Redis**, and **Docker Compose**. This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
+- I built this as a way to integrate my keen eye for design with some docker principles I've been learning:
+  
+ **Flask**, **Redis**, and **Docker Compose**. This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
 
 ##
 
