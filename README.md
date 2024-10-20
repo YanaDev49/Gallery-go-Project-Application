@@ -1,7 +1,6 @@
-# Welome to Gallery go! 🖼️
+# 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑮𝒂𝒍𝒍𝒆𝒓𝒚 𝒈𝒐!! 🖼️
 
 ![image](https://github.com/user-attachments/assets/01228107-0f4d-4e9b-905d-ea2ba1f0117f)
-
 
  **Gallery go!** is an aesthetic and interactive web application where every visit earns you points! I built this as a way to integrate my keen eye for design with some docker principles I've been learning: **Flask**, **Redis**, and **Docker Compose**. This web application is simple, but with dynamic backgrounds and a live leaderboard, which is an engaging way to track visits and make the experience more visual. Hope you enjoy exploring it!
 
@@ -19,7 +18,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
   ![ChimpersChimpiGIF](https://github.com/user-attachments/assets/6e5d8a0d-de05-453d-8e69-d038ed8a7a5f)
 
-  ## 
+## 
 
 ### - **Live Leaderboard**: See how your score stacks up against other visitors in real-time. (adds a competitive edge, am i right?)
 
@@ -39,7 +38,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ## 
 
-## Tech Stack 👩‍💻
+## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 👩‍💻
 
 ### - **Flask**: Handles the web app, routes, and user interactions.
 
@@ -47,7 +46,7 @@ https://github.com/user-attachments/assets/b15c278a-042c-4ee0-9014-b71c12dc0169
 
 ### - **Docker & Docker Compose**: Powers the app in a multi-container setup, with separate containers for Flask and Redis.
 
-## Getting Started 📲
+## 𝑮𝒆𝒕𝒕𝒊𝒏𝒈 𝒔𝒕𝒂𝒓𝒕𝒆𝒅 📲
 
 ### Prerequisites
 #### - **Docker** and **Docker Compose** installed.
