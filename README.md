@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e0810c5f-f88e-4546-aab6-9bb076c184b6)
 
- ### **Gallery go** is an aesthetic and interactive web application where every visit earns you points!
+ ### **Gallery go** is an aesthetic and interactive web application where every visit earns you points! 
 
  ## 
  
